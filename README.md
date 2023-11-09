@@ -1,7 +1,5 @@
 # -Laravel-Project-Setup-Guide
 
-# Laravel Project Setup Guide
-
 ## Getting Started:
 
 # Step 1: Install Composer
